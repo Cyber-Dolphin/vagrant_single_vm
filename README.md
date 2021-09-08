@@ -12,6 +12,18 @@ vagrant ssh
 
 ---
 
+Stop VM:
+
+vagrant halt
+
+---
+
+Destroy VM:
+
+vagrant destroy
+
+---
+
 Add box:
 
 vagrant box add --name=<BOX_NAME> <PATH_BOX>
